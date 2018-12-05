@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "891578340088",
+    "firebase_url": "https://sotia-2961a.firebaseio.com",
+    "project_id": "sotia-2961a",
+    "storage_bucket": "sotia-2961a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891578340088:android:198ee366de877e6e",
+        "android_client_info": {
+          "package_name": "com.example.kipchirchir.special"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891578340088-tt870m94ks9fppn7n8ltvovaeej0e1ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENRQC11kuhPqJzHxTrEwT7RoBlLPcPuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
